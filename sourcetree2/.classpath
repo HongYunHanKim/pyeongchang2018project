@@ -13,5 +13,17 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/pyeongchang2018project/pyeongchang2018project/lib/ext/access-bridge-64.jar"/>
+	<classpathentry kind="lib" path="C:/pyeongchang2018project/pyeongchang2018project/lib/ext/cldrdata.jar"/>
+	<classpathentry kind="lib" path="C:/pyeongchang2018project/pyeongchang2018project/lib/ext/dnsns.jar"/>
+	<classpathentry kind="lib" path="C:/pyeongchang2018project/pyeongchang2018project/lib/ext/jaccess.jar"/>
+	<classpathentry kind="lib" path="C:/pyeongchang2018project/pyeongchang2018project/lib/ext/jfxrt.jar"/>
+	<classpathentry kind="lib" path="C:/pyeongchang2018project/pyeongchang2018project/lib/ext/localedata.jar"/>
+	<classpathentry kind="lib" path="C:/pyeongchang2018project/pyeongchang2018project/lib/ext/nashorn.jar"/>
+	<classpathentry kind="lib" path="C:/pyeongchang2018project/pyeongchang2018project/lib/ext/sunec.jar"/>
+	<classpathentry kind="lib" path="C:/pyeongchang2018project/pyeongchang2018project/lib/ext/sunjce_provider.jar"/>
+	<classpathentry kind="lib" path="C:/pyeongchang2018project/pyeongchang2018project/lib/ext/sunmscapi.jar"/>
+	<classpathentry kind="lib" path="C:/pyeongchang2018project/pyeongchang2018project/lib/ext/sunpkcs11.jar"/>
+	<classpathentry kind="lib" path="C:/pyeongchang2018project/pyeongchang2018project/lib/ext/zipfs.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
